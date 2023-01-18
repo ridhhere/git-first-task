@@ -12,3 +12,6 @@ git push origin [branch]
 # it will show the status of the current repository including the file have been modified and need to be commited
 git status
 
+# logs 
+git log
+
