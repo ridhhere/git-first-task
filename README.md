@@ -15,3 +15,18 @@ git status
 # logs 
 git log
 
+profession
+
+three type of scenario
+
+production -> main()
+UAT() -> uat
+develop -> develop()
+
+-> git flow
+
+#inorder to see how many branches you have in your local system
+git branch
+
+#create a branch name uat
+git checkout -b uat
