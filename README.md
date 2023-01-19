@@ -34,3 +34,6 @@ git branch
 
 #create a branch name uat
 git checkout -b uat
+
+#it will take changes from your source branch into the target branch
+git merge
