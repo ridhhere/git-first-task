@@ -23,6 +23,10 @@ production -> main()
 UAT() -> uat
 develop -> develop()
 
+git config --global user.email "your email" 
+
+git config --global user.name "your name"
+
 -> git flow
 
 #inorder to see how many branches you have in your local system
